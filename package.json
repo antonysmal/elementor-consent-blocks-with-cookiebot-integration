@@ -1,0 +1,24 @@
+{
+  "name": "elementor-consent-blocks-with-cookiebot-integration",
+  "version": "0.1.0",
+  "description": "Adds custom Elementor blocks for managing user consents and integrates seamlessly with Cookiebot for cookie compliance.",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonysmal/elementor-consent-blocks-with-cookiebot-integration.git"
+  },
+  "keywords": [
+    "elementor",
+    "cookiebot",
+    "consent",
+    "blocks",
+    "integration"
+  ],
+  "author": "Antony Smal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonysmal/elementor-consent-blocks-with-cookiebot-integration/issues"
+  },
+  "homepage": "https://github.com/antonysmal/elementor-consent-blocks-with-cookiebot-integration#readme"
+}
